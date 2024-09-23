@@ -6,5 +6,5 @@ router.get('/teste', (req: Request, res: Response) => {
     return res.json({nome : "pedro"})
 });
 
-
+//e
 export { router };
